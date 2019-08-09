@@ -1,3 +1,6 @@
 var playlist = {Sufjan: 'Eugene', Bieber: 'Sorry', Slayer: 'Raining Blood' }
 
-function 
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist[artistName] = songTitle
+  return playlist
+}
