@@ -1,1 +1,1 @@
-playlist = {Sufjan: 'Eugene', Bieber: 'Sorry', Slayer: '' }
+playlist = {Sufjan: 'Eugene', Bieber: 'Sorry', Slayer: 'Raining Blood' }
