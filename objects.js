@@ -1,2 +1,2 @@
-playlist = {Sufjan: 'Eugene', Bieber: 'Sorry', Slayer: 'Raining Blood' }
+var playlist = {Sufjan: 'Eugene', Bieber: 'Sorry', Slayer: 'Raining Blood' }
 console.log(playlist)
